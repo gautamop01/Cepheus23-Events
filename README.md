@@ -7,7 +7,7 @@
 #### CP Challenges Round Ranks -
 ##### Round 1 (Bhailog Language) 10 Coding Questions , Done 5
 ##### Round 2 - 4 Debugging Question, Done 2
-##### Round 3 - 1 High Level Problem, Done 
+##### Round 3 - 1 High Level Problem, Done with Rank 1
 ##### Round 4 - 15-20 CP Problem with negative marking, Total score 800+ Points and Get Rank  3
 
 --- Cepheus Over ---
