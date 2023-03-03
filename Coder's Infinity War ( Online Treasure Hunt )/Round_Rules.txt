@@ -13,3 +13,24 @@ Stats of submissions in different languages will be shared with you from time to
 By considering the stats, you have to make an assumption and solve in the language which is least used by others.
 
 In case of a Tie, the time of submissions of the questions and the code optimization will be considered.
+
+
+
+
+
+
+
+
+Rules for Round 2:
+
+This round Consists of 5 Questions
+
+This Type of this round is “Code Golfing”
+
+In this round you have to solve the problem with shortest possible source code (considering Number of characters)
+
+The players will be given points based on the length of the code they submitted.
+
+The shorter the code,the more the points.
+
+(“Code golf is a type of recreational computer programming competition in  which participants strive to achieve the shortest possible source code that solves a certain problem”)
