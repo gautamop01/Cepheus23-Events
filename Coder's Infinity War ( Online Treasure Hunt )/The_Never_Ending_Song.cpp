@@ -22,13 +22,13 @@ Output Format
 
 Output contains the number of times the song will be restarted
 
-Sample Input 0
+Sample Input 0-
 
 3
 5 2 2
 5 4 7
 6 2 3
-Sample Output 0
+Sample Output 0-
 
 2
 1
