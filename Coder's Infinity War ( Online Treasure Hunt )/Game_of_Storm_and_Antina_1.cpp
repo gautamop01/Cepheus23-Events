@@ -81,7 +81,7 @@ int main() {
     while (t--) {
         int a, b, n;
         cin >> a >> b >> n;
-        cout << (solve(a, b, n) ? 0 : 1) << endl;
+        cout << (solve(a, b, n) ? 0 : 1) << endl ;
     }
     return 0;
 }
