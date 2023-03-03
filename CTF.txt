@@ -1,0 +1,3 @@
+Solve a Question Audio to Text -->  Using Audity Software 
+and Find Answer Of --> CTF{ph3i_f4mily_is_in_d4ng3r}
+I attach a photo of solution.
