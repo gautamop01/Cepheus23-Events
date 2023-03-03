@@ -1,0 +1,15 @@
+Rules for Round 1:
+
+This round will be conducted on the Hackerrank Platform
+
+This round consists of 5 questions which need to be solved in 2 hours
+
+Time for Round 1: 10th Feb 4:30pm to 6:30pm
+
+In this round you have to code in the language which is least used by the other players to get the highest score.
+
+Stats of submissions in different languages will be shared with you from time to time. You can access the stats via the link provided. You can also access the stats via our discord server.
+
+By considering the stats, you have to make an assumption and solve in the language which is least used by others.
+
+In case of a Tie, the time of submissions of the questions and the code optimization will be considered.
